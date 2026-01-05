@@ -1,2 +1,2 @@
-# talk_profiling
+# Profiling Talk
 Short summary about profiling Python code.
