@@ -1,0 +1,9 @@
+ruff
+pyright
+snakeviz
+scalene
+line_profiler
+memory_profiler
+matplotlib
+austin-dist
+
